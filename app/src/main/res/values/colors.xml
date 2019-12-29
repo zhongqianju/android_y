@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="gray">#B4B4B4</color>
+    <color name="divide">#111111</color>
+    <color name="main_bg">#FCFCFC</color>
+    <color name="mc_txt_gray_bg">#a6a6a6</color>
+    <color name="ripple_color">#19333333</color>
+    <color name="colorPrimaryDark">#6CB9F7</color>
+    <color name="cursor">#68AFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">妙手医生</string>
+    <string name="title_activity_login">login</string>
+    <string name="pass">输入密码</string>
+    <string name="username">账号/手机号/邮箱</string>
+    <string name="login">登录</string>
+    <string name="sign_up">新用户新注册</string>
+    <string name="forget">忘记密码？</string>
+</resources>
